@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: jrobinsonvm/demo-backstage
     backstage.io/kubernetes-id: dice-roller
-
+    backstage.io/kubernetes-label-selector: 'app.kubernetes.io/part-of=petclinic-server'
 spec:
   type: website
   owner: backstage/maintainers
