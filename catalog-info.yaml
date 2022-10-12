@@ -5,6 +5,8 @@ metadata:
   description: An example deployment of a Backstage application.
   annotations:
     github.com/project-slug: jrobinsonvm/demo-backstage
+    backstage.io/kubernetes-id: dice-roller
+
 spec:
   type: website
   owner: backstage/maintainers
