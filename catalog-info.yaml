@@ -9,5 +9,5 @@ metadata:
     backstage.io/kubernetes-label-selector: 'app.kubernetes.io/part-of=petclinic-server'
 spec:
   type: website
-  owner: backstage/maintainers
+  owner: guest
   lifecycle: experimental
